@@ -2,7 +2,7 @@ from enum import Enum
 
 
 class Type(Enum):
-    auto = 0                # auto 的时候, c 是 : , { } [] 其中之一, 要自己判断
+    auto = 0                # auto 的时候, c 是 : , { } [] 其中之一
     colon = 1               # :
     comma = 2               # ,
     braceLeft = 3           # {
