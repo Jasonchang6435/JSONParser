@@ -2,4 +2,4 @@
 
 ### parser
 
-![flappy bird](https://github.com/Jasonchang6435/gamesByJavaScript/blob/master/bird.gif)
+![parser](https://github.com/Jasonchang6435/JSONParser/blob/master/jsonParser.gif)
